@@ -7,6 +7,6 @@ public:
             if(nums[i]<min){
                 min=nums[i];
             }
-        }return min;
+        }return mini;
     }
 };
